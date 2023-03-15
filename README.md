@@ -1,7 +1,7 @@
 ## Hi there, I'm Hamza Boujid - aka BoujidStack 👋
 
 # 💫 About Me :
-👨‍💻 Hi there! I'm a Full Stack Developer with a passion for creating robust, user-friendly applications. <br><br>🔭 I'm currently working on a project of printing T-shirts, Hoodies...using PHP, HTML, CSS, JAVASCRIPT.<br><br>🧐 I'm always learning and exploring new technologies. Recently, I've been studying Kubernetes, Docker, and microservices architecture.<br><br>💬 Let's chat about anything related to React, Node.js, MongoDb, or cloud technologies like AWS and Azure or anything.<br><br>🎉 Fun fact: When I'm not coding, I can be found in the boxing gym🥊 honing my skills.👊
+👨‍💻 Hi there! I'm a Full Stack Developer with a passion for creating robust, user-friendly applications. <br><br>🔭 I'm currently working on a project of printing T-shirts, Hoodies...using PHP, HTML, CSS, JAVASCRIPT.<br><br>🧐 I'm always learning and exploring new technologies. Recently, I've been studying Kubernetes, Docker, and microservices architecture.<br><br>💬 Let's chat about anything related to React, Node.js, MongoDb, or cloud technologies like AWS and Azure or anything.<br><br>🎉 Fun fact: When I'm not coding, I can be found in the boxing gym🥊honing my skills.👊
 
 
 ## 🌐 Socials :
@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://api.macedon.ga/image/meme/dev" alt="Random Developer Meme" width="512" />
+<img src="https://dynamic-badges.maxalpha.repl.co/meme" alt="Random Developer Meme" width="512" />
 
 
 ---

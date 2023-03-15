@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials :
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hamza_boujid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamza_boujid) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hamza_boujid)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hamzaboujid10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamza_boujid) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hamzaboujid)
 
 
 # 💻 Tech Stack :
@@ -20,8 +20,8 @@
 ### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme :
-<img src="https://api.imgflip.com/get_memes" alt="Random Developer Meme" width="512" />
+### 😂 Random Dev Meme
+<img src="https://api.macedon.ga/image/meme/dev" alt="Random Developer Meme" width="512" />
 
 
 ---

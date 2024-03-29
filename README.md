@@ -1,6 +1,6 @@
 ## Hi there, I'm Hamza Boujid - aka BoujidStack 👋
 
-![logo](https://github.com/BoujidStack/BoujidStack/blob/main/GitHub-Banner.png)
+![logo](https://github.com/BoujidStack/BoujidStack/blob/main/GitHub-Banner2.png)
 
 # 💫 About Me :
 👨‍💻 Hi there! I'm a Full Stack Developer with a passion for creating robust, user-friendly applications. <br><br>🔭 I'm currently working on a project of printing T-shirts, Hoodies...using PHP, HTML, CSS, JAVASCRIPT.<br><br>🧐 I'm always learning and exploring new technologies. Recently, I've been studying Kubernetes, Docker, and microservices architecture.<br><br>💬 Let's chat about anything related to React, Node.js, MongoDb, or cloud technologies like AWS and Azure or anything.<br><br>🎉 Fun fact: When I'm not coding, I can be found in the boxing gym🥊honing my skills.👊
